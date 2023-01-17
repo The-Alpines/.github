@@ -2,5 +2,5 @@
 <img src="The Alpines Wallpaper Base.png" />  
 
 # The Alpines Creator Project  
-Moved to [Zenith Productions](https://github.com/Zenith-Productions)
+Moved to [Project Zenith](https://github.com/Project-Zenith)
 </div>
